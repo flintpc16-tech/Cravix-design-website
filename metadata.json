@@ -1,0 +1,7 @@
+{
+  "name": "Cravix Portfolio",
+  "description": "A premium, minimal, and creative portfolio for Cravix, a Graphic Designer.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

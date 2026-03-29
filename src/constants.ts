@@ -2,6 +2,16 @@ import { Project, Experience } from './types';
 
 export const PROJECTS: Project[] = [
   {
+    id: '7',
+    title: 'Goblin Matchday',
+    description: 'Dynamic sports matchday graphic design.',
+    category: 'Poster',
+    role: 'Visual Designer',
+    tools: ['Photoshop'],
+    image: 'https://i.ibb.co/Ldhw06d0/goblin-matchday.png',
+    tags: ['Poster', 'Sports', 'Matchday']
+  },
+  {
     id: '1',
     title: 'Visual Identity',
     description: 'A comprehensive visual identity project for a modern brand.',

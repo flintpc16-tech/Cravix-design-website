@@ -8,7 +8,8 @@ const SOCIAL_MEDIA_IMAGES = [
   'https://i.ibb.co/Cp3v2Vtz/messi-split.png',
   'https://i.ibb.co/LzZ5Sfk9/el-classico-matchday.png',
   'https://i.ibb.co/VYH3K9nF/POSTER-KOHLI-WO-PARTICALS.jpg',
-  'https://i.ibb.co/S7yNz4bR/iwill-middle.jpg'
+  'https://i.ibb.co/S7yNz4bR/iwill-middle.jpg',
+  'https://i.ibb.co/Ldhw06d0/goblin-matchday.png'
 ];
 
 export default function SocialMediaGallery() {

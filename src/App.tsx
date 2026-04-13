@@ -2,6 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
+import LogoTransformation from './components/LogoTransformation';
 import Logos from './components/Logos';
 import Philosophy from './components/Philosophy';
 import Process from './components/Process';
@@ -20,6 +21,7 @@ function Home() {
   return (
     <>
       <Hero />
+      <LogoTransformation />
       <Logos />
       <Philosophy />
       <Process />

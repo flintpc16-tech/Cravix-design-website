@@ -5,6 +5,7 @@ import { ArrowLeft, MessageCircle } from 'lucide-react';
 import { useContact } from '../context/ContactContext';
 
 const SOCIAL_MEDIA_IMAGES = [
+  'https://i.ibb.co/Z6kXzwn0/t-design-poster.png',
   'https://i.ibb.co/Cp3v2Vtz/messi-split.png',
   'https://i.ibb.co/LzZ5Sfk9/el-classico-matchday.png',
   'https://i.ibb.co/VYH3K9nF/POSTER-KOHLI-WO-PARTICALS.jpg',

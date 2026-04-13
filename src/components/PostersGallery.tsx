@@ -5,6 +5,7 @@ import { ArrowLeft, MessageCircle } from 'lucide-react';
 import { useContact } from '../context/ContactContext';
 
 const POSTER_IMAGES = [
+  'https://i.ibb.co/Z6kXzwn0/t-design-poster.png',
   'https://i.ibb.co/MDwppF17/flayer-w-cc.png',
   'https://i.ibb.co/RT5HK6V4/skincare-w-text.png',
   'https://i.ibb.co/5WkfnvdN/jordan.png',

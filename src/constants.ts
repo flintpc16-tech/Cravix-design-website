@@ -2,6 +2,16 @@ import { Project, Experience } from './types';
 
 export const PROJECTS: Project[] = [
   {
+    id: '8',
+    title: 'T-Design Poster',
+    description: 'A creative poster design showcasing modern typography and layout.',
+    category: 'Poster',
+    role: 'Visual Designer',
+    tools: ['Photoshop'],
+    image: 'https://i.ibb.co/Z6kXzwn0/t-design-poster.png',
+    tags: ['Poster', 'Typography', 'Design']
+  },
+  {
     id: '7',
     title: 'Goblin Matchday',
     description: 'Dynamic sports matchday graphic design.',
